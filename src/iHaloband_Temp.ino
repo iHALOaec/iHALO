@@ -12,7 +12,7 @@ BlynkTimer timer;
 SoftwareSerial EspSerial(2, 3); // RX, TX
 #define ESP8266_BAUD 9600 // Your ESP8266 baud rate:
 ESP8266 wifi(&EspSerial);
-void sendSensor()
+void sendSensor() // this function reads the sensor values & sends it to android app
 {
  int val = analogRead(A0);
   float mv = ( val/1024.0)*5000;    //mv stands for millivolts. 
@@ -22,7 +22,7 @@ void sendSensor()
 }
 void setup()
 {
-  pinMode(A0,INPUT);
+  pinMode(A0,INPUT); 
   pinMode(5,OUTPUT);
   pinMode(6,OUTPUT);
   digitalWrite(5,HIGH);
