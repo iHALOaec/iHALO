@@ -1,4 +1,4 @@
-<img src ="logos/halo.png" height ="100px" width = "100px" ></img>
+<center><img src ="logos/halo.png" height ="250px" width = "250px" ></img></center>
 # iHALO 
          iHALO stands for intelligent Home Assistant & Lifeline Observer
          College of Engineering,Aranmula
