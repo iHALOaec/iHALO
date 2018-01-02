@@ -1,5 +1,5 @@
 # iHALO 
-         iHalo stands for intelligent Home Automation & Lifeline Observer
+         iHALO stands for intelligent Home Assistant & Lifeline Observer
          College of Engineering,Aranmula
          Main project From Department of Computer Science & Engineering
          
