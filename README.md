@@ -11,5 +11,3 @@
          Anjana C           (UI/UX Designer)
          Anjali Achuthan    (Senior Software Engineer)
        
-     refer bluetooth
-https://www.allaboutcircuits.com/projects/communicate-with-your-arduino-through-android/
